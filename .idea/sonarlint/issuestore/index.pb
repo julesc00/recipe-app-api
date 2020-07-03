@@ -43,3 +43,5 @@ Q
 !app/recipe/tests/test_tags_api.py,5/7/575449ac454f9131f5ed3ca1cffb1a3e4f6e7179
 C
 app/recipe/views.py,1/3/13187778ece7081acd60bf56bbff4f19683ced0b
+X
+(app/recipe/tests/test_ingredients_api.py,c/1/c1310179df018fb606c4ee4039436fb001459ee7
