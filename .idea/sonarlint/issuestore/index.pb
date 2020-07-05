@@ -45,3 +45,8 @@ C
 app/recipe/views.py,1/3/13187778ece7081acd60bf56bbff4f19683ced0b
 X
 (app/recipe/tests/test_ingredients_api.py,c/1/c1310179df018fb606c4ee4039436fb001459ee7
+@
+requirements.txt,1/9/19359a61ae2446b51b549167b014da2fcf265768
+:
+
+Dockerfile,6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4
